@@ -18,6 +18,7 @@ var names = [
   'Double Bogey',
   'Go Home!',
 ];
+
 function golfScore(par, strokes) {
   if (strokes == 1) {
     return names[0];
